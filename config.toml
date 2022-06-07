@@ -1,0 +1,5 @@
+baseURL = 'https://FILL THIS IN'
+languageCode = 'en-us'
+title = 'Notebook'
+theme = 'book'
+enableEmoji = true
