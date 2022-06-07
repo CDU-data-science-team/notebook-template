@@ -1,4 +1,4 @@
-baseURL = 'https://FILL THIS IN'
+baseURL = 'https://cdu-data-science-team.github.io/notebook-template/'
 languageCode = 'en-us'
 title = 'Notebook'
 theme = 'hugo-book'
